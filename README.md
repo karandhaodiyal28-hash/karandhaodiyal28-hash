@@ -107,13 +107,17 @@
 
 ---
 
+<!--
 ## 🏆 GitHub Trophies
+NOTE: github-profile-trophy.vercel.app service is currently down (DEPLOYMENT_DISABLED).
+Uncomment this section when the service is back: https://github.com/ryo-ma/github-profile-trophy/issues/419
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=karandhaodiyal28-hash&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
+-->
 
 ## 📫 Contact & Socials
 
