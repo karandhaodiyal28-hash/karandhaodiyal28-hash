@@ -105,6 +105,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karandhaodiyal28-hash&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karandhaodiyal28-hash/karandhaodiyal28-hash/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karandhaodiyal28-hash/karandhaodiyal28-hash/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/karandhaodiyal28-hash/karandhaodiyal28-hash/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  </picture>
+</p>
+
 ---
 
 <!--
