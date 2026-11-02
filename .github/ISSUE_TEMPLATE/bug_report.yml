@@ -1,0 +1,44 @@
+name: Bug report
+description: Report something that is broken or behaving unexpectedly
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. Please fill in the details below.
+
+  - type: input
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A short description of the issue
+      placeholder: The README stats cards stopped rendering
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: How can someone else see the same behaviour?
+      placeholder: |
+        1. Open the profile page
+        2. Scroll to the stats section
+        3. Cards show as broken
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Browser, OS, device
+      value: "Desktop"
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched existing issues and this is not a duplicate
+          required: true
