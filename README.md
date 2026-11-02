@@ -90,6 +90,21 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [retail_demand_forecasting](https://github.com/karandhaodiyal28-hash/retail_demand_forecasting) | Demand forecasting pipeline for retail sales | Python, Pandas, ML |
+| [CascadeCrypt-CLI](https://github.com/karandhaodiyal28-hash/CascadeCrypt-CLI) | Command-line file encryption tool | Python, Crypto |
+| [CampusConnect](https://github.com/karandhaodiyal28-hash/CampusConnect) | Campus networking & student community app | Next.js, PostgreSQL |
+| [smart-canteen](https://github.com/karandhaodiyal28-hash/smart-canteen) | Smart canteen ordering & management system | Next.js, DB |
+| [mini-sandbox](https://github.com/karandhaodiyal28-hash/mini-sandbox) | Lightweight local AI/agent sandbox | Python, LLMs |
+| [Omini-ai-](https://github.com/karandhaodiyal28-hash/Omini-ai-) | AI assistant toolkit | Python, APIs |
+| [hospital-database-analysis](https://github.com/karandhaodiyal28-hash/hospital-database-analysis) | Healthcare data analysis & reporting | Python, SQL |
+| [house-price-prediction](https://github.com/karandhaodiyal28-hash/house-price-prediction) | ML model for real-estate price prediction | Python, Scikit-learn |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
