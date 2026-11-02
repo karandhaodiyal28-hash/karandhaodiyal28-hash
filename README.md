@@ -96,6 +96,7 @@
 |---|---|---|
 | [retail_demand_forecasting](https://github.com/karandhaodiyal28-hash/retail_demand_forecasting) | Demand forecasting pipeline for retail sales | Python, Pandas, ML |
 | [CascadeCrypt-CLI](https://github.com/karandhaodiyal28-hash/CascadeCrypt-CLI) | Command-line file encryption tool | Python, Crypto |
+| [devtoolkit](https://github.com/karandhaodiyal28-hash/devtoolkit) | Dependency-free string, batching and CLI helpers | Python, Pytest, Actions |
 | [CampusConnect](https://github.com/karandhaodiyal28-hash/CampusConnect) | Campus networking & student community app | Next.js, PostgreSQL |
 | [smart-canteen](https://github.com/karandhaodiyal28-hash/smart-canteen) | Smart canteen ordering & management system | Next.js, DB |
 | [mini-sandbox](https://github.com/karandhaodiyal28-hash/mini-sandbox) | Lightweight local AI/agent sandbox | Python, LLMs |
